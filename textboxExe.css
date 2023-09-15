@@ -28,7 +28,7 @@
   object-position: top;
   vertical-align: middle;
 }
-.main-con {
+.main-container {
   margin-top: 40px;
   margin-left: 120px;
   display: inline-block;
@@ -63,7 +63,7 @@
 .google-container {
   display: inline-block;
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 300px;
   margin-right: 100px;
   margin-bottom: 100px;
 
