@@ -109,3 +109,7 @@
 .schedule-button:active{
     background-color: rgba(128, 128, 128, 0.303) ;
 }
+.text{
+    margin-top: 50px;
+    margin-left: 30px;
+}
