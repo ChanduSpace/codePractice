@@ -33,9 +33,10 @@
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: 120px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 60px;
+  margin-right: 60px;
   display: inline-block;
   border: none;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.309);
@@ -76,6 +77,8 @@
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.309);
   border-radius: 5px;
   padding-top: 80px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 .google-logo{
   width: 200px;
@@ -111,4 +114,63 @@
   padding-bottom: 12px;
   padding-left: 20px;
   padding-right: 20px;
+}
+.block{
+  display: inline-block;
+  width: 150px;
+  border: none;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  margin-top: 0px;
+  vertical-align: top;
+  border-radius: 3px;
+}
+.block:hover{
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.8);
+}
+.dhoni-img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: right;
+  border-radius: 3px
+
+}
+.name {
+  font-size: 15px;
+  margin-left: 6px;
+  font-weight: bold;
+  margin-bottom: 3px;
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif
+}
+.mutual{
+  margin-top: 0px;
+  margin-left: 6px;
+  margin-bottom: 10px;
+  color: rgb(100, 100, 100);
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif
+}
+.add-friend{
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(24, 119, 242);
+  margin-top: 0px;
+  margin-left: 6px;
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.add-friend:hover{
+  opacity: 0.7;
+}
+.dale-img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 3px
 }
