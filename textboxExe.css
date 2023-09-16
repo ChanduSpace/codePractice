@@ -201,3 +201,67 @@
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.309);
   
 }
+.for-image{
+  display: inline-block;
+  width: 50px;
+  vertical-align: middle;
+}
+.dhoni10{
+  width: 50px;
+  border-radius: 250px;
+  height: 50px;
+  object-fit: cover;
+  object-position: top;
+  vertical-align: middle;
+}
+.for-words{
+  margin-left: 5px;
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+.for-button{
+  vertical-align: middle;
+  display: inline-block;
+}
+.exe10{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 60px;
+  margin-right: 60px;
+  display: inline-block;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.309);
+  border-radius: 5px;
+}
+.wo1{
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder
+}
+.wo{
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(100, 100, 100)
+
+}
+.button10{
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(24, 119, 242);
+  margin-top: 0px;
+  margin-left: 6px;
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  transition: all 0.15s;
+}
