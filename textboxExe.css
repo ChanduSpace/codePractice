@@ -174,3 +174,7 @@
   object-position: center;
   border-radius: 3px
 }
+.total-container{
+  display: inline-block;
+  vertical-align: top;
+}
