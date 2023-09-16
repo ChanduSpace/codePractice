@@ -167,6 +167,9 @@
 .add-friend:hover{
   opacity: 0.7;
 }
+.add-friend:active{
+  opacity: 0.4;
+}
 .dale-img{
   width: 150px;
   height: 150px;
