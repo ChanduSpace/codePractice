@@ -33,9 +33,36 @@
 
     }
     .main-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        height: 500px;
+        background-color: aquamarine;
+        border-style: solid;
         border-width: 2px;
         border-color: gray;
         border-radius: 4px;
+        padding: 10px;
+        column-gap: 10px;
+    }
+    .sub-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background-color: skyblue;
+        border-style: solid;
+        border-width: 2px;
+        border-color: gray;
+        border-radius: 4px;
+        padding: 10px;
+        column-gap: 10px;
+        row-gap: 10px;
+    }
+    .element-container{
+        background-color: beige;
+        border-style: solid;
+        border-width: 2px;
+        border-color: gray;
+        border-radius: 4px;
+        padding: 10px;
     }
    </style>
 </head>
